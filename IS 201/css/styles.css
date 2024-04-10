@@ -1,0 +1,60 @@
+body {
+    background-color: rgba(0, 0, 0, 0.714);
+    color: azure;
+    /*text color*/
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+h5 {
+    text-align: center;
+    font-style: italic;
+    background-color: aqua;
+    opacity: 80%;
+}
+
+/*a means the hyper links*/
+a {
+    color: aqua;
+}
+
+a:visited {
+    color: antiquewhite;
+}
+
+img {
+    border: 2px solid fuchsia;
+    padding: 3px;
+    margin: 5px;
+    /*centers stuff*/
+    /* display: block;
+    margin: auto; */
+
+}
+
+.imgcenter {
+    display: block;
+    margin: auto;
+}
+
+.rizz{
+    display: block;
+    margin: auto;
+}
+
+.rizzler{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: beige;
+    background-color: blue;
+    border: dashed orange 5px;
+    font-size: larger;
+    font-style: italic;
+
+}
+li{
+    text-decoration: overline;
+}
